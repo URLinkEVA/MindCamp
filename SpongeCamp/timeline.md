@@ -660,7 +660,11 @@ anfinsen实验：去折叠的蛋白质在体外可自发再折叠，结构信息
 
 PSP protocols
 
+
+
 accessing evolutionary information-Transformers
+
+
 
 
 
@@ -670,4 +674,131 @@ accessing evolutionary information-Transformers
 
 ## 深度学习和实验信息辅助的蛋白质结构预测上机演示
 
+
+
+# 825
+
+## 蛋白质设计：从能量函数优化到人工智能生成
+
+
+
+![image-20230825090249609](D:\term4\活动\SpongeCamp\image-20230825090249609.png)
+
+![image-20230825090348890](D:\term4\活动\SpongeCamp\image-20230825090348890.png)
+
+能量依赖于结构
+
+![image-20230825090439669](D:\term4\活动\SpongeCamp\image-20230825090439669.png)
+
+![image-20230825090546409](D:\term4\活动\SpongeCamp\image-20230825090546409.png)
+
+![image-20230825090816883](D:\term4\活动\SpongeCamp\image-20230825090816883.png)
+
+### 漏斗模型
+
+![image-20230825091101269](D:\term4\活动\SpongeCamp\image-20230825091101269.png)
+
+### 决定蛋白质自由能地貌的相互作用
+
+#### 溶剂效应
+
+![image-20230825091140875](D:\term4\活动\SpongeCamp\image-20230825091140875.png)
+
+#### 协同效应
+
+自由能净变化（大/小）
+
+![image-20230825091522308](D:\term4\活动\SpongeCamp\image-20230825091522308.png)
+
+![image-20230825091728144](D:\term4\活动\SpongeCamp\image-20230825091728144.png)
+
+### 蛋白质结构计算建模
+
+#### 基本范式
+
+![image-20230825091852879](D:\term4\活动\SpongeCamp\image-20230825091852879.png)
+
+#### 优化
+
+![image-20230825092050810](D:\term4\活动\SpongeCamp\image-20230825092050810.png)
+
+#### 抽样
+
+![image-20230825092131722](D:\term4\活动\SpongeCamp\image-20230825092131722.png)
+
+### 基本范式的困境
+
+- 能量函数或分布函数困境
+- 算法困境
+
+![image-20230825092257341](D:\term4\活动\SpongeCamp\image-20230825092257341.png)
+
+### 克服模型精度不足
+
+- 数据驱动
+- AI
+
+![image-20230825092601292](D:\term4\活动\SpongeCamp\image-20230825092601292.png)
+
+### 神经网络
+
+![image-20230825092724953](D:\term4\活动\SpongeCamp\image-20230825092724953.png)
+
+![image-20230825092815534](D:\term4\活动\SpongeCamp\image-20230825092815534.png)
+
+### 基于能量优化的蛋白质设计
+
+![image-20230825092843789](D:\term4\活动\SpongeCamp\image-20230825092843789.png)
+
+大分子能量模型类型
+
+![image-20230825092920990](D:\term4\活动\SpongeCamp\image-20230825092920990.png)
+
+![image-20230825092939107](D:\term4\活动\SpongeCamp\image-20230825092939107.png)
+
+### 统计能量函数
+
+![image-20230825093004175](D:\term4\活动\SpongeCamp\image-20230825093004175.png)
+
+#### 传统解决方法
+
+![image-20230825093108133](D:\term4\活动\SpongeCamp\image-20230825093108133.png)
+
+#### 改进方法
+
+- 引入更高维的边缘分布
+
+克服技术困难（维度灾难问题）
+
+避免过拟合
+
+
+
+SCUBA+ABACUS2 de novo
+
+扩散生成采样好
+
+
+
+## 检索增强的大语言模型
+
+
+
+## 蛋白质属性建模以及突变预测
+
+### dl应用于蛋白质
+
+Bert encoder
+
+GPT decoder
+
+注意力机制
+
+#### 蛋白质数据库
+
+PDB，Uniprot
+
+
+
+## 细胞调控图谱的计算解析
 
